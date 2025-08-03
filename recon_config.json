@@ -1,0 +1,35 @@
+{
+  "openai_api_key": "your-openai-key-here",
+  "google_places_api_key": "your-google-places-key-here",
+  "google_maps_api_key": "your-google-maps-key-here",
+  "twitter_bearer_token": "your-twitter-token-here",
+  "game_integration": {
+    "enabled": true,
+    "game_name": "Achill AI Avengers - Island of Legends",
+    "default_location": "Achill Island, Ireland",
+    "api_endpoints": {
+      "enabled": true,
+      "host": "localhost",
+      "port": 8000
+    }
+  },
+  "drone_simulation": {
+    "default_altitude": 120,
+    "default_radius_km": 0.4,
+    "default_frames": 8,
+    "image_quality": "high",
+    "hud_overlay": true
+  },
+  "performance": {
+    "cache_enabled": true,
+    "cache_duration_hours": 24,
+    "max_concurrent_requests": 4,
+    "request_timeout_seconds": 30
+  },
+  "logging": {
+    "level": "INFO",
+    "file": "recon_agent.log",
+    "max_size_mb": 10,
+    "backup_count": 5
+  }
+}
