@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Exposure Solutions Recon Agent v2.0 Pro
 
 ## Game Integration Package for Achill AI Avengers - Island of Legends
