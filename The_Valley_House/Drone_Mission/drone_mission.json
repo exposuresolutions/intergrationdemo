@@ -1,0 +1,129 @@
+{
+  "poi_name": "The Valley, Achill Island, Co. Mayo, Ireland",
+  "center_coordinates": {
+    "lat": 18.2145861,
+    "lon": -63.0517759
+  },
+  "mission_type": "circular_flyover",
+  "total_waypoints": 13,
+  "estimated_flight_time": "26 minutes",
+  "estimated_battery_usage": "65%",
+  "weather_requirements": "Wind < 15 mph, Visibility > 3 miles, No precipitation",
+  "airspace_notice": "Check NOTAMS and restricted airspace before flight",
+  "legal_requirements": "Drone registration, Part 107 license (US), or equivalent local certification required",
+  "waypoints": [
+    {
+      "lat": 18.221772589399926,
+      "lon": -63.0517759,
+      "altitude": 120,
+      "heading": 90.0,
+      "gimbal_pitch": -45,
+      "action": "photo"
+    },
+    {
+      "lat": 18.220809782384364,
+      "lon": -63.047993109136875,
+      "altitude": 120,
+      "heading": 120.0,
+      "gimbal_pitch": -45,
+      "action": "video_segment"
+    },
+    {
+      "lat": 18.218179344699962,
+      "lon": -63.04522391403066,
+      "altitude": 120,
+      "heading": 150.0,
+      "gimbal_pitch": -45,
+      "action": "video_segment"
+    },
+    {
+      "lat": 18.2145861,
+      "lon": -63.04421031827375,
+      "altitude": 120,
+      "heading": 180.0,
+      "gimbal_pitch": -45,
+      "action": "photo"
+    },
+    {
+      "lat": 18.210992855300034,
+      "lon": -63.04522391403066,
+      "altitude": 120,
+      "heading": 210.0,
+      "gimbal_pitch": -45,
+      "action": "video_segment"
+    },
+    {
+      "lat": 18.208362417615632,
+      "lon": -63.047993109136875,
+      "altitude": 120,
+      "heading": 240.00000000000003,
+      "gimbal_pitch": -45,
+      "action": "video_segment"
+    },
+    {
+      "lat": 18.2145861,
+      "lon": -63.0517759,
+      "altitude": 150,
+      "heading": 0,
+      "gimbal_pitch": -90,
+      "action": "photo_360"
+    },
+    {
+      "lat": 18.20739961060007,
+      "lon": -63.0517759,
+      "altitude": 120,
+      "heading": 270.0,
+      "gimbal_pitch": -45,
+      "action": "photo"
+    },
+    {
+      "lat": 18.208362417615632,
+      "lon": -63.05555869086313,
+      "altitude": 120,
+      "heading": 300.0,
+      "gimbal_pitch": -45,
+      "action": "video_segment"
+    },
+    {
+      "lat": 18.210992855300034,
+      "lon": -63.05832788596935,
+      "altitude": 120,
+      "heading": 330.0,
+      "gimbal_pitch": -45,
+      "action": "video_segment"
+    },
+    {
+      "lat": 18.2145861,
+      "lon": -63.05934148172626,
+      "altitude": 120,
+      "heading": 0.0,
+      "gimbal_pitch": -45,
+      "action": "photo"
+    },
+    {
+      "lat": 18.218179344699962,
+      "lon": -63.05832788596935,
+      "altitude": 120,
+      "heading": 30.000000000000057,
+      "gimbal_pitch": -45,
+      "action": "video_segment"
+    },
+    {
+      "lat": 18.220809782384364,
+      "lon": -63.05555869086313,
+      "altitude": 120,
+      "heading": 59.99999999999994,
+      "gimbal_pitch": -45,
+      "action": "video_segment"
+    }
+  ],
+  "safety_notes": [
+    "Maintain visual line of sight at all times",
+    "Monitor battery levels continuously",
+    "Land immediately if weather deteriorates",
+    "Respect privacy and property boundaries",
+    "Follow all local drone regulations",
+    "Check for temporary flight restrictions",
+    "Obtain necessary permits for commercial operations"
+  ]
+}

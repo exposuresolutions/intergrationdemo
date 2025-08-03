@@ -1,0 +1,16 @@
+DRONE FLYOVER MISSION BRIEF
+==================================================
+
+Target: The Valley, Achill Island, Co. Mayo, Ireland
+Mission Type: circular_flyover
+Total Waypoints: 13
+Estimated Flight Time: 26 minutes
+Estimated Battery Usage: 65%
+
+Weather Requirements:
+Wind < 15 mph, Visibility > 3 miles, No precipitation
+
+Airspace Notice:
+Check NOTAMS and restricted airspace before flight
+
+SAFETY CHECKLIST:
